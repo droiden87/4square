@@ -15,7 +15,6 @@ The details screen will display a pin on the map indicating your current positio
 
 ## Libraries Used
   * [LiveData][13] - Build data objects that notify views when the underlying database changes.
-  * [Room][16] - Access your app's SQLite database with in-app objects and compile-time checks.
   * [ViewModel][17] - Store UI-related data that isn't destroyed on app rotations.
   * [Google Maps][18] - static and dynamic maps, Street View imagery, and 360° views
   * [Glide][90] - for asynchronous image loading
