@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656247529020",
+    "firebase_url": "https://eden4square.firebaseio.com",
+    "project_id": "eden4square",
+    "storage_bucket": "eden4square.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656247529020:android:5854bf0439452531",
+        "android_client_info": {
+          "package_name": "com.edentech.labs.foursquarevenues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656247529020-lc2qa5kjjvujhvaccu1j2qq2dgheamnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edentech.labs.foursquarevenues",
+            "certificate_hash": "869a4db775517465a622c1a8e32436a0f4f5645d"
+          }
+        },
+        {
+          "client_id": "656247529020-a9iq4s69h468kvmh242uvv6cu2dapi03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgKHK2pBFsR8AvBDFc2DHkm-1l35-KDWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656247529020-a9iq4s69h468kvmh242uvv6cu2dapi03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
