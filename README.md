@@ -6,6 +6,7 @@ This project uses the Gradle build system. To build this project, use the gradle
 # Screens
 
 The first screen will allow you to search for venues near your current location and displays them in a list.  It includes some information about the place and how far it is from you. Tapping on a venue will take you to the detail screen.
+
 <img src="/images/home_scr.png" width="318" height="617" />
 
 The details screen will display a pin on the map indicating your current position on the top half along with venues details.  This screen also shows some information about the selected venue (rating, address and a button to navigate to their website if its available), phone call capability.
